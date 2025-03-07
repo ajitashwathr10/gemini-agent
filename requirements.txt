@@ -1,0 +1,5 @@
+google-generativeai
+langchain
+openai
+fastapi
+uvicorn
