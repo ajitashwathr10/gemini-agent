@@ -53,6 +53,7 @@ Gemini operates as a reasoning system that:
 2. **Plans** a strategy to gather relevant information
 3. **Executes** actions using specialized tools
 4. **Synthesizes** findings into a coherent, insightful response
+   
 
 This project was specifically developed to demonstrate capability and interest in Google DeepMind's GSOC 2025 "Enhance Gemini API Integrations in OSS Agents Tools" initiative.
 ---
