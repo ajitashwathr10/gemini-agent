@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  geminiagent:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - GOOGLE_API_KEY = ${GOOGLE_API_KEY}
+    restart: unless-stopped
