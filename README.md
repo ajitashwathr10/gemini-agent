@@ -1,9 +1,8 @@
 # Gemini Agent
 Demo Project: Enhance Gemini API Integrations in OSS Agents Tools
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/geminiagent?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ajitashwathr10/gemini-agent?style=social)
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 🚀 Overview
 
